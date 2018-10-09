@@ -1,0 +1,32 @@
+<app>
+	<name>vkmod</name>
+	<version>0.0.1</version>
+</app>
+
+<engine>
+	<name>vkengine</name>
+	<version>0.0.1</version>
+</engine>
+
+<map>
+	<component>
+		"r": 'blah',
+		"g": 'blah',
+		"b": 'blah',
+		"a": 'blah'
+	</component>
+</map>
+
+<pipe>
+	<type>graph</type>
+	<name>ExampleGraphicsPipeline</name>
+	<shader>
+		<type>vert</type>
+		<bin>vert.spv</bin>
+		<entry>main</entry>
+	</shader>
+	<shader>
+		<type>frag</type>
+		<bin>frag.spv</bin>
+	</shader>
+</pipe>

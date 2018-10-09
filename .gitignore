@@ -1,0 +1,5 @@
+main
+include/*
+*.pyc
+*.swp
+vk.xml
