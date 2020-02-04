@@ -1,0 +1,9 @@
+Simplifications:
+* Create Functions
+* Flags
+
+Patterns:
+	enums with VK_...
+
+Solutions:
+	Monolithic Flags Structure.
