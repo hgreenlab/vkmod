@@ -7,3 +7,9 @@ Patterns:
 
 Solutions:
 	Monolithic Flags Structure.
+
+Impl:
+	Daemon?
+
+Config:
+	/etc/vkmod.cfg?
